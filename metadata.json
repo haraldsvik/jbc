@@ -1,5 +1,6 @@
 {
   "name": "Jon's Bar",
   "symbol": "JBC",
+  "description": "Just for fun",
   "image": "https://raw.githubusercontent.com/haraldsvik/jbc/main/JBC.png"
 }
